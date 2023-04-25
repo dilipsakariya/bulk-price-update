@@ -1,0 +1,76 @@
+/* X-Small devices (portrait phones, less than 576px) */
+
+.bpu-license-page .bpu-license-form {
+	background-color: #fff;
+	border: 1px solid #ccc;
+	width: 100%;
+}
+
+.bpu-license-page .bpu-license-table {
+	margin: 0;
+}
+
+.bpu-license-page .bpu-license-table tbody tr:first-child {
+	border-bottom: 1px solid #ddd;
+	font-weight: 700;
+}
+
+.bpu-license-page .bpu-license-table tbody td {
+	padding: 15px;
+}
+
+.bpu-license-page .bpu-license-status {
+	display: block;
+	margin: 10px 0;
+	padding: 15px;
+}
+
+.bpu-license-page .bpu-license-paragraph {
+	margin: 0;
+}
+
+.bpu-license-page .bpu-license-status-valid {
+	background-color: #d4edda;
+	border: 1px solid #c3e6cb;
+	color: #155724;
+}
+
+.bpu-license-page .bpu-license-status-invalid {
+	background-color: #f8d7da;
+	border: 1px solid #f5c6cb;
+	color: #721c24;
+}
+
+.bpu-license-page .bpu-license-key {
+	margin: 0;
+	width: 100%;
+}
+
+.bpu-license-page .bpu-license-button {
+	margin-top: 15px;
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) {}
+
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+	.bpu-license-page .bpu-license-form {
+		width: 60%;
+	}
+}
+
+/* X-Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+	.bpu-license-page .bpu-license-form {
+		width: 40%;
+	}
+}
+
+
+/* XX-Large devices (larger desktops, 1400px and up) */
+@media (min-width: 1400px) {}

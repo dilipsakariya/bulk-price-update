@@ -1,0 +1,10 @@
+= Version 1.0.2 - May 04, 2022 =
+* Separate License Page
+* Separate Settings Page
+* Fixed WP Standard
+
+= Version 1.0.1 - June 05, 2021 =
+* Bug Fix
+
+= Version 1.0.0 - June 05, 2020 =
+* Initial release
